@@ -10,5 +10,6 @@ package com.acn.manu.dao;
  * @author manuela.mondelli
  */
 public class DAOEmployee {
+        
     
 }

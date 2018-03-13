@@ -11,4 +11,8 @@ package com.acn.manu.dto;
  */
 public class DTOEmployee {
     
+    private String emplId;
+    private String username;
+    private String jobId;
+    
 }
